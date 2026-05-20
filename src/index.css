@@ -1,4 +1,4 @@
-/* @import "tailwindcss";
+@import "tailwindcss";
 
 /*  custom styles  */
 .app {
@@ -42,4 +42,4 @@
   color: #333;
   border-radius: 20px;
   font-weight: bold;
-} */
+}
